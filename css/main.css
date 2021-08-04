@@ -420,6 +420,23 @@ footer {
   margin-left: 15px;
 }
 
+.link {
+  font-family: "Inter", sans-serif;
+  display: flex;
+  flex-direction: row;
+  background: #ff6b00;
+  color: #fff;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+  letter-spacing: 0.03em;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 24px;
+
+  align-self: start;
+}
 textarea {
   display: flex;
   align-items: center;
